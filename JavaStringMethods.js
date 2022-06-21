@@ -59,8 +59,7 @@ var res = str.substr(7, 6); // Output: Banana
 /* JavaScript template literals:-
 Prior to ES6, we use single quotes (') or double quotes (") to wrap a string literal. At that time, the strings have very limited functionality. To help us in solving more complex problems, ES6 template literals provide the syntax that allows you to work with strings in a much cleaner way. In ES6, we can create a template literal by wrapping the string in backticks as follows:*/
 
-let simple = `This is an example of
-                     Template literal`;
+let simple = `This is an example of Template literal`;
 
 /*Following are the features of javascript template literals:
 
@@ -72,4 +71,4 @@ It provides the ability to transform a string so that it is safe to include in H
 let firstName = 'Code With',
 lastName = 'JavaScript';         
 let greeting = `Welcome to ${firstName} ${lastName}`;
-console.log(greeting); // Output: Welcome to Code With Harry
+console.log(greeting); // Output: Welcome to Code With JavaScript
