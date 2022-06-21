@@ -1,6 +1,5 @@
 # Javascript
-``` JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. 
-As of 2022, 98% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries.
+``` Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.
 ```
 ## Directory Tree:
 ```
