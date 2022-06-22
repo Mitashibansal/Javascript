@@ -23,11 +23,11 @@ res= Boolean(""); // false
 
 // String Conversion
 let rest
-let a=90
+let a = 90
 rest = String(a) // returns a string from a number variable a
 String(378009) // returns a string from a number literal 378009
-a.toString() 
-(378009).toString()
+console.log(a.toString());
+(378009).toString();
 
 // parseInt and parseFloat
 console.log( parseInt('$100 dollars') ); // NaN
